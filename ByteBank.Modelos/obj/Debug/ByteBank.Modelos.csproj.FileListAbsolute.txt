@@ -1,0 +1,5 @@
+C:\Users\thiag\Source\Repos\CSharp-parte5-CriandoBibliotecasDLLs\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+C:\Users\thiag\Source\Repos\CSharp-parte5-CriandoBibliotecasDLLs\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\thiag\Source\Repos\CSharp-parte5-CriandoBibliotecasDLLs\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csprojResolveAssemblyReference.cache
+C:\Users\thiag\Source\Repos\CSharp-parte5-CriandoBibliotecasDLLs\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+C:\Users\thiag\Source\Repos\CSharp-parte5-CriandoBibliotecasDLLs\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb
