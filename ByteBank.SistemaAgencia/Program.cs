@@ -12,8 +12,8 @@ namespace ByteBank.SistemaAgencia
         static void Main(string[] args)
         {
             ContaCorrente conta = new ContaCorrente(374, 3627362);
-            Console.WriteLine(conta.Saldo);
 
+            
 
             Console.ReadLine();
         }
